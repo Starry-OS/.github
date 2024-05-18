@@ -18,6 +18,7 @@
 - 每一个子组件在足够细粒度的情况下，支持复用到其他内核
 
 相关链接：
-- Starry 原始仓库：https://github.com/Azure-stars/Starry. 
-- 训练营使用的 Starry 仓库：https://github.com/Arceos-monolithic/Starry.
-- Starry 基于的初始内核 ArceOS：https://github.com/rcore-os/arceos
+- https://github.com/rcore-os/arceos: Starry 基于的初始内核 ArceOS
+- https://github.com/Arceos-monolithic/Starry: 训练营使用的 Starry 仓库，可以用来理解 Starry 架构功能，是最初的版本
+- https://github.com/Azure-stars/Starry/: Starry 改造为单向依赖的过渡版本，改动了一些模块的依赖关系，准备进行组件拆分
+- https://github.com/Starry-OS/Starry/: Starry 拆分为组件之后的主仓库，里面的模块是最新的且在维护的，如果想复用 Starry 的模块，请拉取本组织下的模块仓库
