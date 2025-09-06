@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-这里是 [StarryOS](https://github.com/Starry-OS/Starry-Old/) 组件集中存放的组织。我们期望做到：
+这里是 [StarryOS](https://github.com/Starry-OS/StarryOS/) 组件集中存放的组织。我们期望做到：
 
 - 内核组件细粒度划分
 - 每一个内核组件作为一个独立的仓库，有对应的集成 CI 测试
