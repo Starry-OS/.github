@@ -23,3 +23,4 @@
 - https://github.com/Arceos-monolithic/Starry: 训练营使用的初始版本的 Starry 仓库，可以用来理解 Starry 架构功能，是最初的版本
 - https://github.com/Azure-stars/Starry/: Starry 改造为单向依赖的过渡版本，改动了一些模块的依赖关系，准备进行组件拆分
 - https://github.com/Starry-OS/Starry-Old/: 2024年的主仓库，代表 Starry 在2024年的功能
+- https://github.com/oscomp/starry-next: 2025年全国大学生OS比赛的基础版本，支持x86-64/aarch64/loongarch64/riscv64四种架构
