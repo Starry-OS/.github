@@ -17,6 +17,7 @@
 - 可以通过统一的工具在主仓库直接拉取对应所需的仓库，打包成为一个整体内核进行运行
 - 每一个子组件在足够细粒度的情况下，支持复用到其他内核
 
+## [快速上手](https://github.com/Starry-OS/StarryOS/blob/main/README.md)
 ## [当前计划](https://github.com/orgs/Starry-OS/discussions/3)
 
 ## 相关历史链接
