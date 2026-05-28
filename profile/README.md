@@ -10,9 +10,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 ## 介绍
-这里是2025年4月后，组件化宏内核StarryOS已升级到tgoskits内核组件库中，最新的[StarryOS](https://github.com/rcore-os/tgoskits/tree/dev/os/StarryOS)目前在持续开发中，并支持了[更多的应用和硬件](https://github.com/rcore-os/tgoskits/tree/dev/apps/starry)。
+2025年4月后，组件化宏内核StarryOS已升级到tgoskits内核组件库中，最新的[StarryOS](https://github.com/rcore-os/tgoskits/tree/dev/os/StarryOS)目前在持续开发中，并支持了[更多的应用和硬件](https://github.com/rcore-os/tgoskits/tree/dev/apps/starry)。
 
-位于此处的[StarryOS](https://github.com/Starry-OS/StarryOS)主要用于维护、分析。
+位于`Starry-OS`这个组织中的[StarryOS](https://github.com/Starry-OS/StarryOS)主要用于维护、老版本分析。
 
 我们期望做到：
 
